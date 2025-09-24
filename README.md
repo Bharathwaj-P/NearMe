@@ -102,12 +102,18 @@ tech.html
 
 
 ## OUTPUT
-![alt text](<Screenshot 2025-09-24 110737-1.png>)
-![alt text](<Screenshot 2025-09-24 110851.png>)
-![alt text](<Screenshot 2025-09-24 110911.png>)
-![alt text](<Screenshot 2025-09-24 110930.png>)
-![alt text](<Screenshot 2025-09-24 111013.png>)
-![alt text](<Screenshot 2025-09-24 110949-1.png>)
+<img width="1920" height="1020" alt="Screenshot 2025-09-24 110737" src="https://github.com/user-attachments/assets/34a9fd5d-02b3-4331-abd0-0f813d376164" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 110851" src="https://github.com/user-attachments/assets/2e5507a2-0ebd-43a8-a4af-c1f1a92403e5" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 110911" src="https://github.com/user-attachments/assets/471ddde9-0411-44aa-9f7e-37a540e3e768" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 110930" src="https://github.com/user-attachments/assets/47423fda-2212-433e-9ca0-60f47a04157b" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 110949" src="https://github.com/user-attachments/assets/dfc2c2d8-0395-4bb3-a4bb-b821ef375665" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 111013" src="https://github.com/user-attachments/assets/61b83c72-8cea-4c18-a670-a5acccfddf59" />
+
+
+
+
+
+
 
 
 
