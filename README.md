@@ -102,12 +102,12 @@ tech.html
 
 
 ## OUTPUT
-![alt text](<Screenshot 2025-09-22 132422.png>)
-![alt text](<Screenshot 2025-09-22 132436.png>)
-![alt text](<Screenshot 2025-09-22 132451.png>) 
-![alt text](<Screenshot 2025-09-22 132513.png>) 
-![alt text](<Screenshot 2025-09-22 132531.png>) 
-![alt text](<Screenshot 2025-09-22 132556.png>)
+![alt text](<Screenshot 2025-09-24 110737-1.png>)
+![alt text](<Screenshot 2025-09-24 110851.png>)
+![alt text](<Screenshot 2025-09-24 110911.png>)
+![alt text](<Screenshot 2025-09-24 110930.png>)
+![alt text](<Screenshot 2025-09-24 111013.png>)
+![alt text](<Screenshot 2025-09-24 110949-1.png>)
 
 
 
